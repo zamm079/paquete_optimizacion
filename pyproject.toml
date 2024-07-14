@@ -1,0 +1,18 @@
+[project]
+name = "Prototipo_Paquete_Optimizacion_byZamm079"
+version = "0.0.2"
+authors = [
+  { name="Zamm079", email="azi3lmtz@gmail.com" },
+]
+description = "Es un paquete con funciones de optimizacion multivariable y univariable"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/zamm079/prototipo_paquete_optimizacion"
+Issues = "https://github.com/zamm079/prototipo_paquete_optimizacion/issues"

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Prototipo_Paquete_Optimizacion_byZamm079
+Version: 0.0.2
+Summary: Es un paquete con funciones de optimizacion multivariable y univariable
+Author-email: Zamm079 <azi3lmtz@gmail.com>
+Project-URL: Homepage, https://github.com/zamm079/prototipo_paquete_optimizacion
+Project-URL: Issues, https://github.com/zamm079/prototipo_paquete_optimizacion/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# paquete_optimizacion
+Se muestra una libreria con distintas funciones de optimizacion

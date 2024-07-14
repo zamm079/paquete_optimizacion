@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/Prototipo_Paquete_Optimizacion_byZamm079.egg-info/PKG-INFO
+src/Prototipo_Paquete_Optimizacion_byZamm079.egg-info/SOURCES.txt
+src/Prototipo_Paquete_Optimizacion_byZamm079.egg-info/dependency_links.txt
+src/Prototipo_Paquete_Optimizacion_byZamm079.egg-info/top_level.txt
+src/funciones_prueba/__init__.py
+src/funciones_prueba/func_objetivo.py
+src/metodos_func_multivarible/metodos_directos.py
+src/metodos_func_multivarible/metodos_gradiente.py
+src/metodos_func_univaraiable/metodos_basado_derivada.py
+src/metodos_func_univaraiable/metodos_elim_regiones.py
