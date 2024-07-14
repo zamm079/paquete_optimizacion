@@ -156,7 +156,7 @@ def Three_hump_camel_function(x):
 
 
 if __name__ == "__main__":
-    puntox = np.array([0.0,0.0])
+    puntox = np.array([1.0,2.0])
     print("prueba ackley_function: ",ackley_function(X=puntox))
     print("prueba beale_function: ",beale_function(X=puntox))
     print("prueba booth_function: ",booth_function(x=puntox))
